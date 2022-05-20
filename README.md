@@ -11,6 +11,7 @@ With this exam, we expecto to validate basic skills in the following tecnologies
   
   * Python
   * Shell Script
+  * Basic Linux commands
   * Docker 
 
 The idea is to check if you are able to solve issues, search for libraries, read documentation and write simple automation scripts.  
