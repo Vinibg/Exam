@@ -11,6 +11,7 @@ With this exam, we expect to validate basic skills in the following tecnologies:
   
   * Python
   * Shell Script
+  * Basic Linux commands
   * Docker 
   * Helm and Kubernetes
 
