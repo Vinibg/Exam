@@ -28,11 +28,12 @@ The provided script expects specific environment variables, they should be set i
 
 To run the provided script, just run:
 
-``` pyhton email-sender.py ```
+``` python email-sender.py ```
 
 ### 3) Summary
 
 You should create a shell script, that automates the commands inside a container, this script should download an image, run a container, execute some commands in the container, save the commands output into a file, and run the provided script. As a result, you should get an e-mail with the content inside the text file were the commands outputs are saved. 
 
 ### Deliverables
-  * A shell script that download the image,performs all commands listed inside a container
+  * A shell script that download the image,performs all commands listed inside a container.
+  * The txt generated with command outputs.
