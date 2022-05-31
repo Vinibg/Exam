@@ -1,9 +1,10 @@
 # Exam
 
-## Instruction
+## Instructions
 
   * Create a GitHub account in case you don't have one.
-  * Fork this repository to upload your solutions.
+  * Create a **PRIVATE REPOSITORY** to upload your solutions.
+  * Share your repository with us.
 
 ### What is expected
 
